@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+env/
+
+# Sensitive
+.env
+data/fpl_cookies.json
+data/browser_profile/
+
+# macOS
+.DS_Store
+
+# Large data files (not needed on GitHub)
+data/bootstrap.json
+data/fixtures_*.json
+data/var_history.json
+
+# Local only
+output/
+paper_trading/
