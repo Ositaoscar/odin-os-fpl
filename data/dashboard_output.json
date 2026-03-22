@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-21 21:09",
+  "generated": "2026-03-22 10:42",
   "gw": 32,
   "deadline": "2026-04-10T17:30:00Z",
   "config": {
@@ -129,14 +129,14 @@
       "team": "Sunderland",
       "pos": "DEF",
       "price": 4.1,
-      "form": 2.8,
-      "ppg": 3.9,
+      "form": 3.0,
+      "ppg": 3.8,
       "ict": 100.6,
-      "var": 1.5,
+      "var": 0.76,
       "fdr": 3.0,
       "fixture": "ACTIVE",
       "dgw": false,
-      "gw_pts": 0,
+      "gw_pts": 1,
       "status": "a",
       "news": "",
       "in_xi": false,
@@ -148,7 +148,7 @@
       "pos": "DEF",
       "price": 5.1,
       "form": 3.4,
-      "ppg": 4.2,
+      "ppg": 4.1,
       "ict": 116.9,
       "var": 1.0,
       "fdr": 3.0,
@@ -159,7 +159,7 @@
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 24.79
+      "capt_score": 24.64
     },
     {
       "name": "Gu\u00e9hi",
@@ -475,13 +475,13 @@
     "Bentley"
   ],
   "health": {
-    "score": 82.4,
-    "verdict": "WATCH \u2014 1 GW elevated, need confirmation",
+    "score": 30.4,
+    "verdict": "MONITOR \u2014 2-3 transfers needed",
     "history": [
       {
         "gw": 32,
-        "score": 82.4,
-        "timestamp": "2026-03-21 21:09"
+        "score": 30.4,
+        "timestamp": "2026-03-22 10:42"
       }
     ]
   },
@@ -491,105 +491,105 @@
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Bentley": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Alderete": {
-      "var": 1.5,
-      "form": 2.8,
-      "trend": "STABLE",
-      "delta": 0.0,
-      "gws": 9
+      "var": 0.76,
+      "form": 3.0,
+      "trend": "IMPROVING",
+      "delta": -0.74,
+      "gws": 10
     },
     "Gu\u00e9hi": {
       "var": 1.5,
       "form": 2.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Marc Guiu": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Mbeumo": {
       "var": 1.27,
       "form": 2.6,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Saliba": {
       "var": 1.0,
       "form": 5.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Virgil": {
       "var": 0.52,
       "form": 4.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Thiaw": {
       "var": 1.0,
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Semenyo": {
       "var": 1.0,
       "form": 5.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "O.Dango": {
       "var": 0.83,
       "form": 3.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Palmer": {
       "var": 0.81,
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Jo\u00e3o Pedro": {
       "var": 0.74,
       "form": 6.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "Ekitik\u00e9": {
       "var": 0.89,
       "form": 4.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     },
     "B.Fernandes": {
       "var": -0.27,
       "form": 9.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 9
+      "gws": 10
     }
   },
   "transfers": [
@@ -619,10 +619,10 @@
           "name": "Gibbs-White",
           "team": "Nott'm Forest",
           "price": 7.4,
-          "form": 4.4,
-          "ppg": 4.2,
+          "form": 4.6,
+          "ppg": 4.1,
           "fdr": 3.0,
-          "rec_score": 19.3,
+          "rec_score": 19.55,
           "bank_after": 1.2
         },
         {
@@ -649,18 +649,18 @@
           "name": "Rogers",
           "team": "Aston Villa",
           "price": 7.5,
-          "form": 1.4,
-          "ppg": 4.4,
+          "form": 1.6,
+          "ppg": 4.3,
           "fdr": 3.0,
-          "rec_score": 13.55,
+          "rec_score": 13.8,
           "bank_after": 1.1
         }
       ],
       "best": {
         "name": "Gibbs-White",
         "price": 7.4,
-        "form": 4.4,
-        "rec_score": 19.3
+        "form": 4.6,
+        "rec_score": 19.55
       }
     },
     {
@@ -712,7 +712,7 @@
     {
       "key": "bboost",
       "available": true,
-      "verdict": "MONITOR GW33 \u2014 xP:63.0  DGWs:0",
+      "verdict": "MONITOR GW33 \u2014 xP:62.8  DGWs:0",
       "detail": null,
       "deploy_gw": 33
     }
@@ -721,13 +721,13 @@
     {
       "name": "Trenches PL",
       "rank": 8,
-      "pts": 1619,
+      "pts": 1620,
       "total": 16
     },
     {
       "name": "Painhub",
       "rank": 4,
-      "pts": 1619,
+      "pts": 1620,
       "total": 6
     }
   ],
