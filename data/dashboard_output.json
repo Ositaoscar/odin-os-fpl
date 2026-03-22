@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-21 20:51",
+  "generated": "2026-03-21 21:09",
   "gw": 32,
   "deadline": "2026-04-10T17:30:00Z",
   "config": {
@@ -54,19 +54,19 @@
       "team": "Brentford",
       "pos": "GK",
       "price": 4.8,
-      "form": 1.8,
-      "ppg": 3.6,
-      "ict": 68.8,
-      "var": 1.5,
+      "form": 3.4,
+      "ppg": 3.8,
+      "ict": 71.1,
+      "var": -0.67,
       "fdr": 3.0,
       "fixture": "ACTIVE",
       "dgw": false,
-      "gw_pts": 0,
+      "gw_pts": 8,
       "status": "a",
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 15.88
+      "capt_score": 19.61
     },
     {
       "name": "Bentley",
@@ -112,7 +112,7 @@
       "price": 6.3,
       "form": 4.8,
       "ppg": 4.4,
-      "ict": 145.2,
+      "ict": 148.6,
       "var": 0.52,
       "fdr": 2.0,
       "fixture": "ACTIVE",
@@ -122,7 +122,7 @@
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 30.72
+      "capt_score": 31.06
     },
     {
       "name": "Alderete",
@@ -203,19 +203,19 @@
       "team": "Brentford",
       "pos": "MID",
       "price": 6.0,
-      "form": 3.6,
-      "ppg": 4.4,
-      "ict": 113.4,
-      "var": 1.0,
+      "form": 3.8,
+      "ppg": 4.2,
+      "ict": 113.6,
+      "var": 0.83,
       "fdr": 3.0,
       "fixture": "ACTIVE",
       "dgw": false,
-      "gw_pts": 0,
+      "gw_pts": 1,
       "status": "a",
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 25.14
+      "capt_score": 25.26
     },
     {
       "name": "B.Fernandes",
@@ -224,7 +224,7 @@
       "price": 10.2,
       "form": 9.2,
       "ppg": 6.8,
-      "ict": 301.1,
+      "ict": 301.0,
       "var": -0.27,
       "fdr": 2.0,
       "fixture": "ACTIVE",
@@ -234,45 +234,45 @@
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 58.71
+      "capt_score": 58.7
     },
     {
       "name": "Palmer",
       "team": "Chelsea",
       "pos": "MID",
       "price": 10.6,
-      "form": 3.0,
-      "ppg": 4.9,
-      "ict": 116.2,
-      "var": 1.0,
+      "form": 3.4,
+      "ppg": 4.8,
+      "ict": 118.8,
+      "var": 0.81,
       "fdr": 4.0,
       "fixture": "ACTIVE",
       "dgw": false,
-      "gw_pts": 0,
+      "gw_pts": 2,
       "status": "a",
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 24.97
+      "capt_score": 25.88
     },
     {
       "name": "Jo\u00e3o Pedro",
       "team": "Chelsea",
       "pos": "FWD",
       "price": 7.8,
-      "form": 6.0,
-      "ppg": 5.4,
-      "ict": 192.9,
-      "var": 1.0,
+      "form": 6.4,
+      "ppg": 5.3,
+      "ict": 196.6,
+      "var": 0.74,
       "fdr": 4.0,
       "fixture": "ACTIVE",
       "dgw": false,
-      "gw_pts": 0,
+      "gw_pts": 2,
       "status": "a",
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 39.39
+      "capt_score": 40.41
     },
     {
       "name": "Mbeumo",
@@ -339,7 +339,7 @@
       "price": 10.2,
       "form": 9.2,
       "ppg": 6.8,
-      "ict": 301.1,
+      "ict": 301.0,
       "var": -0.27,
       "fdr": 2.0,
       "fixture": "ACTIVE",
@@ -349,7 +349,7 @@
       "news": "",
       "in_xi": true,
       "on_bench": false,
-      "capt_score": 58.71
+      "capt_score": 58.7
     },
     "vice": {
       "name": "Semenyo",
@@ -378,7 +378,7 @@
         "price": 10.2,
         "form": 9.2,
         "ppg": 6.8,
-        "ict": 301.1,
+        "ict": 301.0,
         "var": -0.27,
         "fdr": 2.0,
         "fixture": "ACTIVE",
@@ -388,7 +388,7 @@
         "news": "",
         "in_xi": true,
         "on_bench": false,
-        "capt_score": 58.71
+        "capt_score": 58.7
       },
       {
         "name": "Semenyo",
@@ -414,19 +414,19 @@
         "team": "Chelsea",
         "pos": "FWD",
         "price": 7.8,
-        "form": 6.0,
-        "ppg": 5.4,
-        "ict": 192.9,
-        "var": 1.0,
+        "form": 6.4,
+        "ppg": 5.3,
+        "ict": 196.6,
+        "var": 0.74,
         "fdr": 4.0,
         "fixture": "ACTIVE",
         "dgw": false,
-        "gw_pts": 0,
+        "gw_pts": 2,
         "status": "a",
         "news": "",
         "in_xi": true,
         "on_bench": false,
-        "capt_score": 39.39
+        "capt_score": 40.41
       },
       {
         "name": "Mbeumo",
@@ -448,23 +448,23 @@
         "capt_score": 32.04
       },
       {
-        "name": "Ekitik\u00e9",
+        "name": "Virgil",
         "team": "Liverpool",
-        "pos": "FWD",
-        "price": 9.3,
-        "form": 4.2,
-        "ppg": 4.5,
-        "ict": 156.2,
-        "var": 0.89,
+        "pos": "DEF",
+        "price": 6.3,
+        "form": 4.8,
+        "ppg": 4.4,
+        "ict": 148.6,
+        "var": 0.52,
         "fdr": 2.0,
         "fixture": "ACTIVE",
         "dgw": false,
-        "gw_pts": 1,
+        "gw_pts": 3,
         "status": "a",
         "news": "",
         "in_xi": true,
         "on_bench": false,
-        "capt_score": 30.77
+        "capt_score": 31.06
       }
     ]
   },
@@ -475,184 +475,124 @@
     "Bentley"
   ],
   "health": {
-    "score": 98.2,
+    "score": 82.4,
     "verdict": "WATCH \u2014 1 GW elevated, need confirmation",
     "history": [
       {
         "gw": 32,
-        "score": 98.2,
-        "timestamp": "2026-03-21 13:35"
+        "score": 82.4,
+        "timestamp": "2026-03-21 21:09"
       }
     ]
   },
   "var_trends": {
     "Kelleher": {
-      "var": 1.5,
-      "form": 1.8,
+      "var": -0.67,
+      "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Bentley": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Alderete": {
       "var": 1.5,
       "form": 2.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Gu\u00e9hi": {
       "var": 1.5,
       "form": 2.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Marc Guiu": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Mbeumo": {
       "var": 1.27,
       "form": 2.6,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Saliba": {
       "var": 1.0,
       "form": 5.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Virgil": {
       "var": 0.52,
       "form": 4.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Thiaw": {
       "var": 1.0,
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Semenyo": {
       "var": 1.0,
       "form": 5.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "O.Dango": {
-      "var": 1.0,
-      "form": 3.6,
+      "var": 0.83,
+      "form": 3.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Palmer": {
-      "var": 1.0,
-      "form": 3.0,
+      "var": 0.81,
+      "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Jo\u00e3o Pedro": {
-      "var": 1.0,
-      "form": 6.0,
+      "var": 0.74,
+      "form": 6.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "Ekitik\u00e9": {
       "var": 0.89,
       "form": 4.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     },
     "B.Fernandes": {
       "var": -0.27,
       "form": 9.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 7
+      "gws": 9
     }
   },
   "transfers": [
-    {
-      "out": {
-        "name": "Kelleher",
-        "team": "Brentford",
-        "pos": "GK",
-        "price": 4.8,
-        "form": 1.8,
-        "ppg": 3.6,
-        "ict": 68.8,
-        "var": 1.5,
-        "fdr": 3.0,
-        "fixture": "ACTIVE",
-        "dgw": false,
-        "gw_pts": 0,
-        "status": "a",
-        "news": "",
-        "in_xi": true,
-        "on_bench": false,
-        "capt_score": 15.88
-      },
-      "verdict": "transfer",
-      "options": [
-        {
-          "name": "Sels",
-          "team": "Nott'm Forest",
-          "price": 4.6,
-          "form": 1.8,
-          "ppg": 3.0,
-          "fdr": 3.0,
-          "rec_score": 11.8,
-          "bank_after": 0.2
-        },
-        {
-          "name": "S\u00e1nchez",
-          "team": "Chelsea",
-          "price": 4.8,
-          "form": 1.4,
-          "ppg": 3.6,
-          "fdr": 4.0,
-          "rec_score": 10.6,
-          "bank_after": 0.0
-        },
-        {
-          "name": "Vicario",
-          "team": "Spurs",
-          "price": 4.7,
-          "form": 1.0,
-          "ppg": 2.9,
-          "fdr": 4.0,
-          "rec_score": 8.8,
-          "bank_after": 0.1
-        }
-      ],
-      "best": {
-        "name": "Sels",
-        "price": 4.6,
-        "form": 1.8,
-        "rec_score": 11.8
-      }
-    },
     {
       "out": {
         "name": "Mbeumo",
@@ -699,10 +639,10 @@
           "name": "Enzo",
           "team": "Chelsea",
           "price": 6.6,
-          "form": 1.8,
-          "ppg": 4.4,
+          "form": 2.2,
+          "ppg": 4.3,
           "fdr": 4.0,
-          "rec_score": 13.6,
+          "rec_score": 14.25,
           "bank_after": 2.0
         },
         {
@@ -722,6 +662,29 @@
         "form": 4.4,
         "rec_score": 19.3
       }
+    },
+    {
+      "out": {
+        "name": "Bentley",
+        "team": "Wolves",
+        "pos": "GK",
+        "price": 3.9,
+        "form": 0.0,
+        "ppg": 0.0,
+        "ict": 0.0,
+        "var": 1.5,
+        "fdr": 2.0,
+        "fixture": "ACTIVE",
+        "dgw": false,
+        "gw_pts": 0,
+        "status": "a",
+        "news": "",
+        "in_xi": false,
+        "on_bench": true
+      },
+      "verdict": "hold",
+      "message": "No quality replacements. Hold and combine \u00a33.9m with next sell.",
+      "options": []
     }
   ],
   "chips": [
@@ -749,7 +712,7 @@
     {
       "key": "bboost",
       "available": true,
-      "verdict": "MONITOR GW33 \u2014 xP:63.2  DGWs:0",
+      "verdict": "MONITOR GW33 \u2014 xP:63.0  DGWs:0",
       "detail": null,
       "deploy_gw": 33
     }
