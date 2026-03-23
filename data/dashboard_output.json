@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-23 01:41",
+  "generated": "2026-03-23 03:13",
   "gw": 32,
   "deadline": "2026-04-10T17:30:00Z",
   "config": {
@@ -481,7 +481,7 @@
       {
         "gw": 32,
         "score": 30.8,
-        "timestamp": "2026-03-23 01:41"
+        "timestamp": "2026-03-23 03:13"
       }
     ]
   },
@@ -490,106 +490,106 @@
       "var": -0.88,
       "form": 3.6,
       "trend": "STABLE",
-      "delta": -0.21,
-      "gws": 11
+      "delta": 0.0,
+      "gws": 12
     },
     "Bentley": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Alderete": {
       "var": 0.76,
       "form": 3.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Gu\u00e9hi": {
       "var": 1.5,
       "form": 2.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Marc Guiu": {
       "var": 1.5,
       "form": 0.0,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Mbeumo": {
       "var": 1.27,
       "form": 2.6,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Saliba": {
       "var": 1.0,
       "form": 5.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Virgil": {
       "var": 0.52,
       "form": 4.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Thiaw": {
       "var": 1.0,
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Semenyo": {
       "var": 1.0,
       "form": 5.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "O.Dango": {
       "var": 0.83,
       "form": 3.8,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Palmer": {
       "var": 0.81,
       "form": 3.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Jo\u00e3o Pedro": {
       "var": 0.74,
       "form": 6.4,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "Ekitik\u00e9": {
       "var": 0.89,
       "form": 4.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     },
     "B.Fernandes": {
       "var": -0.27,
       "form": 9.2,
       "trend": "STABLE",
       "delta": 0.0,
-      "gws": 11
+      "gws": 12
     }
   },
   "transfers": [
